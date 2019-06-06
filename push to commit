@@ -1,0 +1,3 @@
+git add . # stage any changes
+git commit -m "added appflow sdk" # commit staged changes
+git push origin master # push the changes from the master branch to your git host
